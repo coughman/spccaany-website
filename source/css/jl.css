@@ -1,0 +1,17 @@
+.jl-sl-img {
+	height:520px;
+}
+.emph {
+	font-weight:bold;
+}
+ul.gallery li .photo {
+    margin: 15px;
+    display: block;
+    position: relative;
+}
+a.box_link{
+	color:#34495E;
+}
+.mbot{
+	margin-bottom:20px;
+}
